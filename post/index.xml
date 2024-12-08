@@ -49,7 +49,18 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Hello, world!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description>
+&lt;/div&gt;&lt;p&gt;网站介绍
+这是我的个人博客网站，主要用来记录一些技术相关的文章，欢迎大家访问！
+网站基于Hexo搭建部署在Gitte上。
+The website is built based on Hexo and deployed on Gitte.&lt;/p&gt;
+&lt;p&gt;网站内容主要涉及：
+计算机基础知识
+Linux相关知识
+web部署相关知识
+网站架构
+网站架构如下：
+Hexo&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Chinese Test</title>
